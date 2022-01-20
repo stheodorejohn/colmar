@@ -7,28 +7,28 @@
 
 
 /* For Tags */
- 
-nav{
-        
+
+nav {
+
     height: 64px;
 }
- 
+
 
 header a:hover {
     text-decoration: none;
 }
 
-header ul{
+header ul {
     list-style-type: none;
-    
+
 }
 
 header span span {
     margin-right: 16px;
 }
 
-header span span:last-child{
-    
+header span span:last-child {
+
     margin-right: 24px;
 }
 
@@ -37,24 +37,57 @@ header span span:last-child{
 
 
 main {
-    background: pink;
-    padding-top: 64px;
+    /* background: pink; */
+    /* padding-top: 64px; */
 }
 
 
 
 
-/* For Class's*/ 
-.nav_row{
+/* For Class's*/
+.nav_row {
     height: 64px;
-   
+
 }
- 
 
-.menu_image {     
+
+.menu_image {
     margin-left: 24px;
-    
-        }
-     
 
-/* For ID's*/
+}
+
+.banner{
+    background-color: #d8d8d8;
+}
+
+
+
+.banner_image {
+
+    padding: 32px 24px 32px 24px;
+
+}
+
+.banner_title{
+     padding-bottom: 32px;
+     font-size: 40px;
+     font-weight: 600;
+}
+
+.banner_text{
+    padding-bottom: 24px;
+    font-size: 24px;
+     font-weight: 600;
+}
+.banner_button{
+    /* padding: 8px 0px; */
+}
+
+.banner_textbox{
+    padding-bottom: 32px;
+    padding-right: 50px;
+}
+
+.banner_mobile{
+    padding-left: 16px;
+}
