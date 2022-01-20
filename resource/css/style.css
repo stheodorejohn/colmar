@@ -1,0 +1,60 @@
+* {
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+/* For Tags */
+ 
+nav{
+        
+    height: 64px;
+}
+ 
+
+header a:hover {
+    text-decoration: none;
+}
+
+header ul{
+    list-style-type: none;
+    
+}
+
+header span span {
+    margin-right: 16px;
+}
+
+header span span:last-child{
+    
+    margin-right: 24px;
+}
+
+
+
+
+
+main {
+    background: pink;
+    padding-top: 64px;
+}
+
+
+
+
+/* For Class's*/ 
+.nav_row{
+    height: 64px;
+   
+}
+ 
+
+.menu_image {     
+    margin-left: 24px;
+    
+        }
+     
+
+/* For ID's*/
