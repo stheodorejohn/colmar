@@ -108,15 +108,37 @@ main {
     padding: 32px 24px 32px 24px;
 }
 
+.thesis_video{
+    padding:  0px 24px 32px 24px;
+}
 .information_title {
     /* padding-top: 32px; */
+    padding-left: 24px;
+    padding-top: 0px;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.thesis_title{
     padding-left: 24px;
     font-size: 40px;
     font-weight: 600;
 }
 
+.thesis_title_2{
+    padding-left: 24px;
+    font-size: 28px;
+    font-weight: 600;
+}
 .information_text {
     padding: 24px;
+    font-size: 18px;
+}
+
+.thesis_text{
+    padding-left: 24px;
+    padding-top: 8px;
+    padding-bottom: 32px;
     font-size: 18px;
 }
 
@@ -138,6 +160,10 @@ main {
 
 
 .keep_practising{
+    background-color:#eeeeee;
+}
+
+.thesis_exhibit{
     background-color:#eeeeee;
 }
 
@@ -183,6 +209,15 @@ main {
     font-size: 40px;
     font-weight: 600;
 
+}
+
+.thesis_title{
+    padding-top: 32px;
+    padding-bottom: 32px;
+    text-align: center;
+    
+    font-size: 40px;
+    font-weight: 600;
 }
 
 .start_learning_title_mobile{
@@ -234,4 +269,47 @@ main {
  
 .card_desc{
     padding-bottom: 24px;
+}
+
+.learning_card{
+    padding-left: 72px;
+    padding-right: 72px;
+    padding-bottom: 32px;
+}
+
+.learning_card_start{
+    padding-bottom: 32px;
+    padding-right: 16px;
+     
+    padding-top: 0px;
+}
+
+.learning_mid_card{
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 32px;
+    padding-top: 0px;
+
+}
+
+.learning_end_card{
+    padding-bottom: 32px;
+    padding-right: 0px;
+     padding-left: 16px;
+    padding-top: 0px;
+
+}
+
+
+.thesis_card_text{
+    padding-right: 100px;
+    padding-left: 24px ;
+}
+
+.footer_text{
+    padding-left: 24px;
+    padding-top: 16px;
+    padding-bottom: 30px;
+    background-color: #eeeeee;
+    /* background-color: red;     */
 }
