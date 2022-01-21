@@ -80,7 +80,10 @@ main {
      font-weight: 600;
 }
 .banner_button{
-    /* padding: 8px 0px; */
+    
+    padding-top: 8px;
+    padding-bottom: 8px;
+    
 }
 
 .banner_textbox{
@@ -90,4 +93,8 @@ main {
 
 .banner_mobile{
     padding-left: 16px;
+}
+
+.banner_desktop{
+    padding-right: 140px;
 }
